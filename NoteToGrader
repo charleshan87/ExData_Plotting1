@@ -1,0 +1,9 @@
+Note to Grader:
+
+The R script files were created as functions. You can run the script by first sourcing the file from the R command prompt, and then calling the function :
+
+For example (for the first plot), 
+
+source("plot_01.R")
+plot_01()
+
